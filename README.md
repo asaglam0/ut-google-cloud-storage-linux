@@ -17,12 +17,12 @@ Before using this task in a production system, please perform extensive testing.
 
 Stonebranch GmbH assumes no liability for damage caused by the performance of the Universal Tasks 
 
-# 2.Scope  
+# 2. Scope  
 
 This document provides a documentation how to install and use the Universal Tasks for Google Blob Storage File Transfers. If more Task 
 will be created in the future this document will be updated accordingly.   
 
-# 3.Introduction 
+# 3. Introduction 
 
 Storing data in the cloud becomes an integral part of most modern IT landscapes. With Universal Automation Center you can securely 
 automate your AWS, Azure, Google or any other Cloud File Transfer and integrate them into your existing scheduling flows. 
