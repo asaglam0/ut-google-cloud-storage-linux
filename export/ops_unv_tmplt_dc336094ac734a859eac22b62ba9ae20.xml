@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-11-29 09:38:17" unload_format="1" unload_table="ops_unv_tmplt" unload_version="6.7.0.0"><ops_unv_tmplt action="INSERT_OR_UPDATE"><credentials_var/><agent/><icon_date_created>2019-03-27 08:57:51</icon_date_created><sys_updated_on>2019-11-21 16:34:41</sys_updated_on><output_return_text/><sys_updated_by>asaglam</sys_updated_by><sys_created_on>2019-05-03 11:14:43</sys_created_on><agent_cluster_var/><agent_cluster_var_check>false</agent_cluster_var_check><wait_for_output>false</wait_for_output><sys_created_by>ops.admin</sys_created_by><output_return_nline>100</output_return_nline><exit_code_text/><exit_code_fr>0</exit_code_fr><runtime_dir/><output_return_type>1</output_return_type><script/><broadcast_cluster_var_check>false</broadcast_cluster_var_check><agent_type>2</agent_type><script_type_windows/><automatic_output_fr>0</automatic_output_fr><agent_cluster/><name>gcs-list-blob-with-prefix</name><exit_codes>0</exit_codes><broadcast_cluster/><use_common_script>false</use_common_script><credentials/><icon_filesize>1993</icon_filesize><icon>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</icon><credential_fr>0</credential_fr><description/><environment_variables_fr>0</environment_variables_fr><agent_var/><icon_filename>250px-Google-Cloud-Storage-Logo.svg.png</icon_filename><sys_id>dc336094ac734a859eac22b62ba9ae20</sys_id><variable_prefix>gcs</variable_prefix><script_windows/><credentials_var_check>false</credentials_var_check><agent_fr>0</agent_fr><agent_var_check>false</agent_var_check><output_failure_only>false</output_failure_only><output_return_sline>1</output_return_sline><output_type>1</output_type><desktop_interact>false</desktop_interact><script_unix>#!/opt/universal/python3.6/bin/python3
+###############################################################################
+#
+#    Name: gcs-list_blobs_with_prefix.py
+#
+#    Purpose: list blobs with prefix
+#
+#
+#
+#
+#    Prerequisites:
+#     - Universal Agent for Windows/Linux
+#     - Requires the Python modules via pip
+#     - pip install azure-storage-blob_file_name
+#     - pip install azure-storage-logging
+#
+#     Version History:
+#     1.0  Nils Buer    2019-03-27    initial
+#     2.0  Nils Buer    2019-05-15    proxy function from Abullah Saglam added
+#     3.0  A Saglam     2019-08-19    changes for Axa
+#
+###############################################################################
+
+# Used modules
+from google.cloud import storage, exceptions
+import logging
+import os
+version = "3.0"
+
+
+# -- logging settings DEBUG, INFO, WARNING, ERROR, CRITICAL
+# logging.basicConfig(level=logging.${ops_gcs_loglevel},
+# format=' %(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level="${ops_gcs_loglevel}",
+                    format=' %(asctime)s - %(levelname)s - %(message)s')
+
+
+def main():
+    set_variables()  # from Universal Task Form or Command Line Input
+    sb_gcs_con = SbGcs("${_scriptPath('${ops_gcs_keyfile}')}",
+                       "${ops_gcs_useproxy}",
+                       "${ops_gcs_proxy_type}",
+                       "",
+                       "",
+                       "${ops_gcs_proxy_host}",
+                       "${ops_gcs_proxy_port}")
+    sb_gcs_con.list_blobs_with_prefix("${ops_gcs_bucket_name}",
+                                      "${ops_gcs_prefix}")
+
+
+def set_variables():
+    logging.info(
+        "Executing version " + version + " with the following parameters")
+    logging.info('####### Parameters:')  # print out all parameters
+    logging.info(r'Keyfile: ${ops_gcs_keyfile}')
+    logging.info(r'bucket name: ${ops_gcs_bucket_name}')
+    logging.info(r'prefix: ${ops_gcs_prefix}')
+    logging.info(r'Use Proxy: ${ops_gcs_useproxy}')
+    logging.info(r'Proxy Host: ${ops_gcs_proxy_host}')
+    logging.info(r'Proxy Port: ${ops_gcs_proxy_port}')
+    logging.info(r"Proxy User: ${_credentialUser('${ops_gcs_proxy_cred}')} ")
+    logging.info(r"Proxy Password: ${_credentialPwd('${ops_gcs_proxy_cred}')}")
+
+
+class SbGcs:
+    """Stonebranch Google Storage Class for python
+
+    This class is written for file operations
+    to and from Google cloud
+
+    Attributes:
+        _storage_client: keeps the resource identifier
+        _library_version: keeps the class library version
+    """
+
+    def __init__(self,
+                 key_file,
+                 use_proxy="0",
+                 proxy_type="http",
+                 proxy_user=None,
+                 proxy_passwd=None,
+                 proxy_host=None,
+                 proxy_port=None):
+        self._storage_client = None
+        self.connect_gcs(key_file,
+                         use_proxy,
+                         proxy_type,
+                         proxy_user,
+                         proxy_passwd,
+                         proxy_host,
+                         proxy_port)
+
+    def __del__(self):
+        self._storage_client = None
+
+    def connect_gcs(self,
+                    key_file,
+                    use_proxy="0",
+                    proxy_type="http",
+                    proxy_user=None,
+                    proxy_passwd=None,
+                    proxy_host=None,
+                    proxy_port=None):
+        """Connects to cloud.
+
+        Connects to the cloud with or without proxy
+        Assigns the resource id to _storage_client
+
+        Args:
+            key_file: Aws access key file
+            use_proxy: proxy use flag, 0 or 1
+            proxy_type: proxy type, http or https
+            proxy_user: proxy user information
+            proxy_passwd: proxy password information
+            proxy_host: proxy host information
+            proxy_port: proxy port information
+
+        Returns:
+            -
+
+        Raises:
+            -
+        """
+        # Make the connection to Google Cloud either via Proxy or direct
+        if use_proxy == "1":
+            # connection via Proxy
+            logging.info(
+                f'Google Cloud Connection with Proxy: '
+                f'{proxy_host} using port: {proxy_port}')
+            logging.debug('Establishing connection')
+            if proxy_type == "https":
+                os.environ['https_proxy'] = "https://%s:%s@%s:%s" % (
+                    proxy_user, proxy_passwd, proxy_host, proxy_port)
+            else:
+                os.environ['http_proxy'] = "http://%s:%s" % (
+                    proxy_host, proxy_port)
+            # storage_client =
+            # storage.Client.from_service_account_json(key_file)
+        else:
+            # connection without Proxy
+            logging.info("Direct Connection without Proxy")
+            # storage_client =
+            # storage.Client.from_service_account_json(key_file)
+        storage_client = storage.Client.from_service_account_json(key_file)
+        self._storage_client = storage_client
+
+    def list_blobs_with_prefix(self, bucket_name, prefix, delimiter=None):
+        """Lists all the blobs in the bucket that begin with the prefix.
+        This can be used to list all blobs in a "folder", e.g. "public/".
+        The delimiter argument can be used to restrict the results to only the
+        "files" in the given "folder". Without the delimiter, the entire tree
+        under the prefix is returned. For example, given these blobs:
+            /a/1.txt
+            /a/b/2.txt
+        If you just specify prefix = '/a', you'll get back:
+            /a/1.txt
+            /a/b/2.txt
+        However, if you specify prefix='/a' and delimiter='/', you'll get back:
+            /a/1.txt
+        """
+        # storage_client = connect_gcs()
+        try:
+            bucket = self._storage_client.get_bucket(bucket_name)
+            blobs = bucket.list_blobs(prefix=prefix, delimiter=delimiter)
+            logging.info('Blobs:')
+            num_blob = 0
+            for blob in blobs:
+                logging.info(blob.name)
+                num_blob += 1
+            if num_blob == 0:
+                logging.info('Blobs: NULLLLLL')
+            if delimiter:
+                logging.info('Prefixes:')
+                for prefix in blobs.prefixes:
+                    logging.info(prefix)
+        except Exception as e:
+            logging.error(f'Exception list_blobs_with_prefix')
+            if hasattr(e, 'message'):
+                logging.error(f'{e.message}')
+            else:
+                logging.error(e)
+            if hasattr(e, 'code'):
+                logging.error(f'{e.code}')
+                exit(e.code)
+            else:
+                exit(1)
+
+
+# main function call
+main()</script_unix><output_return_file/><run_as_sudo>false</run_as_sudo><broadcast_cluster_var/><environment/><elevate_user>false</elevate_user><exit_code_output/><exit_code_processing>1</exit_code_processing><create_console>false</create_console><related_items_node><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-15 16:28:15</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>365da5f11ec943febe82576aa8ec6189</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-15 14:44:56</sys_created_on><field_value>https</field_value><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>proxy_type</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>9</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>choiceField3</field_mapping><name>proxy_type</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>38afec09df0d4976a70e23c8eb4363dc</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>proxy_port</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>2</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField2</field_mapping><name>proxy_port</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>445b6e2b653345a49c46dbcd9b29cd86</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>prefix</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>7</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>e.g. prefix sales_data list only blobs starting with sales_data</hint><field_mapping>textField4</field_mapping><name>prefix</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>533892ef4755494e9dfce144543ae542</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>bucket</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>5</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField3</field_mapping><name>bucket_name</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>5b5ef4728bf4485fb4ab31f7caf0fbab</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>proxy_host</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>1</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField1</field_mapping><name>proxy_host</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>5d95e861c5fa4ec48fa02ca42ec92e35</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value>INFO</field_value><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>loglevel</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>0</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>choiceField1</field_mapping><name>loglevel</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>a4b8db693e534f71907942a80f733949</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>proxy credentials</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>3</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>credentialField1</field_mapping><name>proxy_cred</name><field_regex/><field_type>5</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>a518c19fa72d4f669ee1e0e390b6a7d2</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value>0</field_value><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>useproxy</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>4</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>choiceField2</field_mapping><name>useproxy</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>cdd58d54da0e48d2bc3ee85ef59c5b20</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>keyfile</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>8</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>scriptField1</field_mapping><name>keyfile</name><field_regex/><field_type>6</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>365da5f11ec943febe82576aa8ec6189</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>094a83d7c24e451180d2eee66596d096</sys_id><sequence>1</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-05-15 14:45:08</sys_created_on><field_value_label>http</field_value_label><field_value>http</field_value><sys_updated_on>2019-05-15 14:45:08</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>365da5f11ec943febe82576aa8ec6189</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>65a4c6cd0f544b1caad5d70816f3994a</sys_id><sequence>0</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-05-15 14:45:02</sys_created_on><field_value_label>https</field_value_label><field_value>https</field_value><sys_updated_on>2019-05-15 14:45:02</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>a518c19fa72d4f669ee1e0e390b6a7d2</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>78446170f2e542aeb960f95a53759afb</sys_id><sequence>1</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value_label>Yes</field_value_label><field_value>1</field_value><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>5d95e861c5fa4ec48fa02ca42ec92e35</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>7a3c940742b444d28813d2f165d78bf6</sys_id><sequence>0</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value_label>INFO</field_value_label><field_value>INFO</field_value><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>5d95e861c5fa4ec48fa02ca42ec92e35</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>83895dda5ee84f7b9e852cbb7d329ae8</sys_id><sequence>1</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value_label>DEBUG</field_value_label><field_value>DEBUG</field_value><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>a518c19fa72d4f669ee1e0e390b6a7d2</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>9c3c4a34f2b34d9a84f7ba4a0b8b2db4</sys_id><sequence>0</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value_label>No</field_value_label><field_value>0</field_value><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>dc336094ac734a859eac22b62ba9ae20</universal_template_id></ops_unv_tmplt_field_choice></related_items_node></ops_unv_tmplt></unload>
